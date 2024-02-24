@@ -52,5 +52,3 @@ function roundTo(number, decimal='1') {
   }
   return number;
 }
-
-function 
